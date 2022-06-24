@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/neel-portfolio/static/css/main.682c97fc.css",
-    "main.js": "/neel-portfolio/static/js/main.f9acc18c.js",
+    "main.js": "/neel-portfolio/static/js/main.a606a2b6.js",
     "static/css/598.6b633ae6.chunk.css": "/neel-portfolio/static/css/598.6b633ae6.chunk.css",
     "static/js/598.821e3af7.chunk.js": "/neel-portfolio/static/js/598.821e3af7.chunk.js",
     "static/css/866.b6116036.chunk.css": "/neel-portfolio/static/css/866.b6116036.chunk.css",
-    "static/js/866.f62c16c1.chunk.js": "/neel-portfolio/static/js/866.f62c16c1.chunk.js",
+    "static/js/866.17c21716.chunk.js": "/neel-portfolio/static/js/866.17c21716.chunk.js",
     "static/css/588.6fcae6c8.chunk.css": "/neel-portfolio/static/css/588.6fcae6c8.chunk.css",
     "static/js/588.bd2ee8bd.chunk.js": "/neel-portfolio/static/js/588.bd2ee8bd.chunk.js",
     "static/css/271.f6bbb477.chunk.css": "/neel-portfolio/static/css/271.f6bbb477.chunk.css",
@@ -44,11 +44,11 @@
     "static/media/innovationm-logo.webp": "/neel-portfolio/static/media/innovationm-logo.c1128d8c05190f0ddcba.webp",
     "static/media/cicsoft-logo.webp": "/neel-portfolio/static/media/cicsoft-logo.485013520a43aaa7870f.webp",
     "main.682c97fc.css.map": "/neel-portfolio/static/css/main.682c97fc.css.map",
-    "main.f9acc18c.js.map": "/neel-portfolio/static/js/main.f9acc18c.js.map",
+    "main.a606a2b6.js.map": "/neel-portfolio/static/js/main.a606a2b6.js.map",
     "598.6b633ae6.chunk.css.map": "/neel-portfolio/static/css/598.6b633ae6.chunk.css.map",
     "598.821e3af7.chunk.js.map": "/neel-portfolio/static/js/598.821e3af7.chunk.js.map",
     "866.b6116036.chunk.css.map": "/neel-portfolio/static/css/866.b6116036.chunk.css.map",
-    "866.f62c16c1.chunk.js.map": "/neel-portfolio/static/js/866.f62c16c1.chunk.js.map",
+    "866.17c21716.chunk.js.map": "/neel-portfolio/static/js/866.17c21716.chunk.js.map",
     "588.6fcae6c8.chunk.css.map": "/neel-portfolio/static/css/588.6fcae6c8.chunk.css.map",
     "588.bd2ee8bd.chunk.js.map": "/neel-portfolio/static/js/588.bd2ee8bd.chunk.js.map",
     "271.f6bbb477.chunk.css.map": "/neel-portfolio/static/css/271.f6bbb477.chunk.css.map",
@@ -59,6 +59,6 @@
   },
   "entrypoints": [
     "static/css/main.682c97fc.css",
-    "static/js/main.f9acc18c.js"
+    "static/js/main.a606a2b6.js"
   ]
 }
