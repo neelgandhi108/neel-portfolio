@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_website_neelgandhi=self.webpackChunkportfolio_website_neelgandhi||[]).push([[697],{3697:function(e,n,o){o.r(n);o(2791);var i=o(184);n.default=function(){return(0,i.jsx)("div",{children:"Hello, World! NotFound."})}}}]);
+//# sourceMappingURL=697.93ef68a8.chunk.js.map
