@@ -7,10 +7,12 @@ import {SiNestjs, SiMysql} from "react-icons/si";
 import styles from "./ProjectCard.module.css";
 
 const assets = {
-    "Perpetual Crusades": <ImageHolder primarySource={Asset.PerpetualCrusades} secondarySource={Asset.FallbackPerpetualCrusades} alt="Perpetual Crusades" className="card-img"/>,
-    "Project URefer": <ImageHolder primarySource={Asset.ProjectURefer} secondarySource={Asset.FallbackProjectURefer} alt="Project URefer" className="card-img"/>,
-    "HackUMass Website": <ImageHolder primarySource={Asset.HackUMassWebsite} secondarySource={Asset.FallbackHackUMassWebsite} alt="HackUMass Website" className="card-img"/>,
-}
+    "BIGDATA": <ImageHolder primarySource={Asset.BIGDATA} secondarySource={Asset.FallbackBIGDATA} alt="BIGDATA" className="card-img"/>,
+    "COMPVISION": <ImageHolder primarySource={Asset.COMPVISION} secondarySource={Asset.FallbackCOMPVISION} alt="COMPVISION" className="card-img"/>,
+    "DBMS": <ImageHolder primarySource={Asset.DBMS} secondarySource={Asset.FallbackDBMS} alt="DBMS" className="card-img"/>,
+    "RL": <ImageHolder primarySource={Asset.RL} secondarySource={Asset.FallbackRL} alt="RL" className="card-img"/>,
+    "TINYML": <ImageHolder primarySource={Asset.TINYML} secondarySource={Asset.FallbackTINYML} alt="TINYML" className="card-img"/>,
+    }
 
 const icons = {
     "React": <FaReact className={styles.icon} style={{color: "#61DAFB"}}/>,
@@ -41,3 +43,4 @@ const ProjectCard = (props) => {
 }
 
 export default ProjectCard;
+

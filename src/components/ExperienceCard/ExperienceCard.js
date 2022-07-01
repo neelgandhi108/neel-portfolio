@@ -5,16 +5,13 @@ import * as Asset from "../../assets"
 import styles from "./ExperienceCard.module.css";
 
 const assets = {
-    "CICS": <ImageHolder primarySource={Asset.CICSLogo} secondarySource={Asset.FallbackCICSLogo} alt="Manning CICS" className={`card-img ${styles.image}`} />,
-    "CICSoft": <ImageHolder primarySource={Asset.CICSoftLogo} secondarySource={Asset.FallbackCICSoftLogo} alt="CICSoft" className={`card-img ${styles.image}`} />,
-    "BUILD": <ImageHolder primarySource={Asset.BUILDUMassLogo} secondarySource={Asset.FallbackBUILDUMassLogo} alt="BUILD UMass" className={`card-img ${styles.image}`} />,
-    "HackUMass": <ImageHolder primarySource={Asset.HackUMassLogo} secondarySource={Asset.FallbackHackUMassLogo} alt="HackUMass" className={`card-img ${styles.image}`} />,
-    "InnovationM": <ImageHolder primarySource={Asset.InnovationMLogo} secondarySource={Asset.FallbackInnovationMLogo} alt="InnovationM Mobile & Web Technologies" className={`card-img ${styles.image}`} />,
-    "VirtuBox": <ImageHolder primarySource={Asset.VirtuBoxLogo} secondarySource={Asset.FallbackVirtuBoxLogo} alt="VirtuBox Infotech" className={`card-img ${styles.image}`} />,
-    "UMass": <ImageHolder primarySource={Asset.UMassLogo} secondarySource={Asset.FallbackUMassLogo} alt="University of Massachusetts Amherst" className={`card-img ${styles.image}`} />,
-    "DPSRKP": <ImageHolder primarySource={Asset.DPSRKPLogo} secondarySource={Asset.FallbackDPSRKPLogo} alt="Delhi Public School, R. K. Puram" className={`card-img ${styles.image}`} />,
-    "TEDx@DPSRKP": <ImageHolder primarySource={Asset.TEDxLogo} secondarySource={Asset.FallbackTEDxLogo} alt="TEDxYouth@DPSRKPuram" className={`card-img ${styles.image}`} />,
-    "Aeross": <ImageHolder primarySource={Asset.AerossLogo} secondarySource={Asset.FallbackAerossLogo} alt="Aerospace Society, D.P.S. R. K. Puram" className={`card-img ${styles.image}`} />,
+    "BISAG": <ImageHolder primarySource={Asset.BISAG} secondarySource={Asset.FallbackBISAG} alt="BISAG" className={`card-img ${styles.image}`} />,
+    "CIBIOD": <ImageHolder primarySource={Asset.CIBIOD} secondarySource={Asset.FallbackCIBIOD} alt="CIBIOD" className={`card-img ${styles.image}`} />,
+    "IIITNR": <ImageHolder primarySource={Asset.IIITNR} secondarySource={Asset.FallbackIIITNR} alt="IIITNR" className={`card-img ${styles.image}`} />,
+    "IITGandhinagar": <ImageHolder primarySource={Asset.IITGandhinagar} secondarySource={Asset.FallbackIITGandhinagar} alt="IITGandhinagar" className={`card-img ${styles.image}`} />,
+    "Iolite": <ImageHolder primarySource={Asset.Iolite} secondarySource={Asset.FallbackIolite} alt="Iolite" className={`card-img ${styles.image}`} />,
+    "SHREEJI": <ImageHolder primarySource={Asset.SHREEJI} secondarySource={Asset.FallbackSHREEJI} alt="SHREEJI" className={`card-img ${styles.image}`} />,
+    "SPARK": <ImageHolder primarySource={Asset.SPARK} secondarySource={Asset.FallbackSPARK} alt="SPARK" className={`card-img ${styles.image}`} />,
 }
 
 const ExperienceCard = (props) => {

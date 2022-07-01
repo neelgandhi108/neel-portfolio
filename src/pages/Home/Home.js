@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaLinkedin, FaYoutubeSquare, FaBehanceSquare, FaGithubSquare, FaGoogle } from "react-icons/fa";
+import { FaLinkedin, FaYoutubeSquare, FaBehanceSquare, FaGithubSquare, FaGoogle,FaFileDownload,FaPython } from "react-icons/fa";
 import { Container, Row, Col } from 'react-bootstrap';
 import { ImageHolder, ProfileButton } from "../../components";
 import { ProfessionalHeadshot, FallbackProfessionalHeadshot, HomeBackground } from '../../assets';
@@ -24,7 +24,7 @@ const Home = () => {
             </Row>
             <Row>
                 <Col><a href="https://github.com/neelgandhi108" target="_blank_"><FaGithubSquare className={styles.icon} /></a></Col>
-                <Col><a href="https://leetcode.com/neelgandhi11/" target="_blank_"><FaLaravel className={styles.icon} /></a></Col>
+                <Col><a href="https://leetcode.com/neelgandhi11/" target="_blank_"><FaPython className={styles.icon} /></a></Col>
                 <Col><a href="https://www.linkedin.com/in/neel-gandhi-467247172/" target="_blank_"><FaLinkedin className={styles.icon} /></a></Col>
                 <Col><a href="https://scholar.google.com/citations?user=luzHFIcAAAAJ&hl=en" target="_blank_"><FaGoogle className={styles.icon} /></a></Col>
             </Row>

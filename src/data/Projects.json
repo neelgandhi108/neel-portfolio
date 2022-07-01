@@ -1,23 +1,37 @@
 [
     {
-        "title": "Project URefer",
-        "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
-        "gitHubUrl": "https://github.com/suikac/compsci-320-team-5",
+        "title": "Medical Image Segmentation",
+        "content": "Segmentation of skin lesions and classifying them into seven different categories using Deep learning algorithms like UNet, CNN, and customized Unetv2 achieving the highest grade for the project.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Skin_Lesion_Segmentation_and_Classification",
         "liveUrl": null,
         "techStack": ["React", "NestJS", "MySQL"]
     },
     {
-        "title": "HackUMass Website",
-        "content": "HackUMass IX landing website with new functionalities and UI improvements, maintained alongside 10+ tech members.",
-        "gitHubUrl": "https://github.com/fuseumass/hackumass.github.io",
-        "liveUrl": "https://www.hackumass.com",
+        "title": "TinyML Speech Recognition",
+        "content": "Detection of acoustic vocal sound waves by utilizing advanced edge ai‑based architecture for audio detection with adequate accuracy achieving the highest grade for the project.",
+        "gitHubUrl": "https://drive.google.com/file/d/1nISPTo7Xmn58E3-5_o4A1eUO-LRuZkJN/view",
+        "liveUrl": "https://www.youtube.com/watch?v=E3bPhCHa08M",
         "techStack": ["HTML", "CSS"]
     },
-    {
-        "title": "Perpetual Crusades",
-        "content": "Two-player online dice-based board game with a theme loosely set around Dungeons & Dragons.",
-        "gitHubUrl": "https://github.com/AVS1508/perpetual-crusades",
-        "liveUrl": "https://neelgandhi108.github.io/neel-portfolio//perpetual-crusades/",
-        "techStack": ["React", "Bootstrap"]
+	{
+        "title": "Covid record management system for public places",
+        "content": "HackUMass IX landing website with new functionalities and UI improvements, maintained alongside 10+ tech members.",
+        "gitHubUrl": "https://drive.google.com/file/d/1YaM1iXBlUPfmAZ4nZvhKt6jxcM3VDF37/view",
+        "liveUrl": null,
+        "techStack": ["HTML", "CSS"]
+    },
+	{
+        "title": "Big Data Analytics for Google Play Store ",
+        "content": "Reckoning relevance of google play store apps on numerous features using Big Data Analytics for predicting ratings besides using Explainable AI techniques achieving the highest grade.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Big-Data-Analytics-for-Google-Play-Store",
+        "liveUrl": "https://drive.google.com/file/d/12HMXBSyV8jqAbgyAkQWjyYY-iqCpe_f1/view",
+        "techStack": ["HTML", "CSS"]
+    },
+	{
+        "title": "Financial Stock Recommendation System ",
+        "content": "HackUMass IX landing website with new functionalities and UI improvements, maintained alongside 10+ tech members.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Financial-Stock-Recommendation-System",
+        "liveUrl": "https://drive.google.com/file/d/1TRPzgc4Mi4RbMpvHZfniyN6-ZUHvTqXF/view",
+        "techStack": ["HTML", "CSS"]
     }
 ]
