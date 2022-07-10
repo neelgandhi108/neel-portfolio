@@ -7,11 +7,11 @@ import {SiNestjs, SiMysql} from "react-icons/si";
 import styles from "./ProjectCard.module.css";
 
 const assets = {
-    "BIGDATA": <ImageHolder primarySource={Asset.BIGDATA} secondarySource={Asset.FallbackBIGDATA} alt="BIGDATA" className="card-img"/>,
-    "COMPVISION": <ImageHolder primarySource={Asset.COMPVISION} secondarySource={Asset.FallbackCOMPVISION} alt="COMPVISION" className="card-img"/>,
-    "DBMS": <ImageHolder primarySource={Asset.DBMS} secondarySource={Asset.FallbackDBMS} alt="DBMS" className="card-img"/>,
-    "RL": <ImageHolder primarySource={Asset.RL} secondarySource={Asset.FallbackRL} alt="RL" className="card-img"/>,
-    "TINYML": <ImageHolder primarySource={Asset.TINYML} secondarySource={Asset.FallbackTINYML} alt="TINYML" className="card-img"/>,
+    "Big Data Analytics for Google Play Store": <ImageHolder primarySource={Asset.BIGDATA} secondarySource={Asset.FallbackBIGDATA} alt="BIGDATA" className="card-img"/>,
+    "Medical Image Segmentation": <ImageHolder primarySource={Asset.COMPVISION} secondarySource={Asset.FallbackCOMPVISION} alt="COMPVISION" className="card-img"/>,
+    "Covid record management system for public places": <ImageHolder primarySource={Asset.DBMS} secondarySource={Asset.FallbackDBMS} alt="DBMS" className="card-img"/>,
+    "Financial Stock Recommendation System": <ImageHolder primarySource={Asset.RL} secondarySource={Asset.FallbackRL} alt="RL" className="card-img"/>,
+    "TinyML Speech Recognition": <ImageHolder primarySource={Asset.TINYML} secondarySource={Asset.FallbackTINYML} alt="TINYML" className="card-img"/>,
     }
 
 const icons = {

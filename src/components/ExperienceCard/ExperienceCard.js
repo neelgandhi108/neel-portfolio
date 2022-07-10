@@ -26,7 +26,7 @@ const ExperienceCard = (props) => {
             <Card.Body>
                 <Card.Title>{props.title}</Card.Title>
                 <Card.Text>{props.organization}<br /><span style={{ fontWeight: "500" }}>{props.duration}</span></Card.Text>
-                {props.liveUrl ? <Button className={styles.button} variant={props.variant} href={props.liveUrl} target="_blank">Visit Website</Button> : null}
+                {props.liveUrl ? <Button className={styles.button} variant={props.variant} href={props.liveUrl} target="_blank">View Report</Button> : null}
                 {
                     props.description ?
                         (

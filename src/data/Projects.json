@@ -15,21 +15,21 @@
     },
 	{
         "title": "Covid record management system for public places",
-        "content": "HackUMass IX landing website with new functionalities and UI improvements, maintained alongside 10+ tech members.",
+        "content": "Developing Covid record management system for maintaining records backed by SQL database, machine learning, and IoT. The system was developed and patented besides achieving the highest grade.",
         "gitHubUrl": "https://drive.google.com/file/d/1YaM1iXBlUPfmAZ4nZvhKt6jxcM3VDF37/view",
         "liveUrl": null,
         "techStack": ["HTML", "CSS"]
     },
 	{
-        "title": "Big Data Analytics for Google Play Store ",
+        "title": "Big Data Analytics for Google Play Store",
         "content": "Reckoning relevance of google play store apps on numerous features using Big Data Analytics for predicting ratings besides using Explainable AI techniques achieving the highest grade.",
         "gitHubUrl": "https://github.com/neelgandhi108/Big-Data-Analytics-for-Google-Play-Store",
         "liveUrl": "https://drive.google.com/file/d/12HMXBSyV8jqAbgyAkQWjyYY-iqCpe_f1/view",
         "techStack": ["HTML", "CSS"]
     },
 	{
-        "title": "Financial Stock Recommendation System ",
-        "content": "HackUMass IX landing website with new functionalities and UI improvements, maintained alongside 10+ tech members.",
+        "title": "Financial Stock Recommendation System",
+        "content": "Created Portfolio Optimization system for asset allocation using deep reinforcement learning algorithms overriding existing financial recommendation system and received maximum grade from college panel members.",
         "gitHubUrl": "https://github.com/neelgandhi108/Financial-Stock-Recommendation-System",
         "liveUrl": "https://drive.google.com/file/d/1TRPzgc4Mi4RbMpvHZfniyN6-ZUHvTqXF/view",
         "techStack": ["HTML", "CSS"]
