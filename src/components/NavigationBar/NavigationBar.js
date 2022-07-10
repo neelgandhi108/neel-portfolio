@@ -25,6 +25,12 @@ const NavigationBar = (props) => {
                         <Nav.Link eventKey="achievements" className={props.currentTab === "achievements" ? styles.activeLink : styles.inactiveLink}>
                             Achievements
                         </Nav.Link>
+                        <Nav.Link eventKey="publications" className={props.currentTab === "publications" ? styles.activeLink : styles.inactiveLink}>
+                            Publications
+                        </Nav.Link>
+                        <Nav.Link eventKey="certifications" className={props.currentTab === "certifications" ? styles.activeLink : styles.inactiveLink}>
+                            Certifications
+                        </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

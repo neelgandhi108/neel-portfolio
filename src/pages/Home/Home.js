@@ -1,8 +1,9 @@
 import React from 'react';
-import { FaLinkedin, FaYoutubeSquare, FaBehanceSquare, FaGithubSquare, FaGoogle,FaFileDownload,FaPython } from "react-icons/fa";
+import { FaLinkedin, FaYoutubeSquare, FaBehanceSquare, FaGithubSquare, FaGoogle, FaFileDownload, FaPython } from "react-icons/fa";
+import { SiLeetcode, SiGooglescholar} from "react-icons/si";
 import { Container, Row, Col } from 'react-bootstrap';
-import { ImageHolder, ProfileButton } from "../../components";
-import { ProfessionalHeadshot, FallbackProfessionalHeadshot, HomeBackground } from '../../assets';
+import { ImageHolder, ProfileCard, ProfileButton } from "../../components";
+import { ProfessionalHeadshot, FallbackProfessionalHeadshot, HomeBackground, PDEU, FallbackPDEU , DARTMOUTH , FallbackDARTMOUTH} from '../../assets';
 import styles from "./Home.module.css";
 
 const Home = () => {
@@ -20,22 +21,23 @@ const Home = () => {
                 <Col><span className={`${styles.textWhite} ${styles.headingOne}`}>Neel Jaydip Gandhi</span></Col>
             </Row>
             <Row>
-                <Col><span className={`${styles.textWhite} ${styles.headingThree}`}>Software Engineer, Full-Stack Developer, College Student</span></Col>
+                <Col><span className={`${styles.textWhite} ${styles.headingThree}`}>Software Engineer,Machine Learning Researcher, Full-Stack Developer</span></Col>
             </Row>
             <Row>
                 <Col><a href="https://github.com/neelgandhi108" target="_blank_"><FaGithubSquare className={styles.icon} /></a></Col>
-                <Col><a href="https://leetcode.com/neelgandhi11/" target="_blank_"><FaPython className={styles.icon} /></a></Col>
+                <Col><a href="https://leetcode.com/neelgandhi11/" target="_blank_"><SiLeetcode className={styles.icon} /></a></Col>
                 <Col><a href="https://www.linkedin.com/in/neel-gandhi-467247172/" target="_blank_"><FaLinkedin className={styles.icon} /></a></Col>
-                <Col><a href="https://scholar.google.com/citations?user=luzHFIcAAAAJ&hl=en" target="_blank_"><FaGoogle className={styles.icon} /></a></Col>
+                <Col><a href="https://scholar.google.com/citations?user=luzHFIcAAAAJ&hl=en" target="_blank_"><SiGooglescholar className={styles.icon} /></a></Col>
             </Row>
             <Row>
                 <Col><ProfileButton logo={<FaFileDownload className={styles.iconSmall} />} href="./resume.html">Résumé</ProfileButton></Col>
             </Row>
             {/* <Row style={{ justifyContent: "center", alignItems: "center" }}>
-                <ProfileCard logo={CICSLogo} logoAlt="University of Massachusetts Amherst"> Undergraduate Course Assistant at Manning CICS </ProfileCard>
-                <ProfileCard logo={HackUMassLogo} logoAlt="HackUMass"> Tech + Design Member at HackUMass Organizing Team </ProfileCard>
-                <ProfileCard logo={HackUMassLogo} logoAlt="HackUMass"> Software Developer at HackUMass Organizing Team </ProfileCard>
+                <ProfileCard logo={DARTMOUTH} logoAlt="DARTMOUTH COLLEGE"> DARTMOUTH COLLEGE <br/> MASTER OF SCIENCE IN COMPUTER SCIENCE  <br/>   2022‑Present</ProfileCard>   
             </Row> */}
+            <Row style={{ justifyContent: "center", alignItems: "center" }}>
+            <ProfileCard logo={PDEU} logoAlt="Pandit Deendayal Energy University">Pandit Deendayal Energy University <br/> BACHELOR OF TECHNOLOGY IN INFORMATION AND COMMUNICATION TECHNOLOGY ‑(CGPA ‑ 9.32/10.0) <br/> July 2018 ‑ May 2022 </ProfileCard>
+            </Row>
         </Container>
     )
 }

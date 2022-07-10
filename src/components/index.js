@@ -6,3 +6,5 @@ export {default as ProfileCard} from "./ProfileCard/ProfileCard";
 export {default as ProjectCard} from "./ProjectCard/ProjectCard";
 export {default as ExperienceCard} from "./ExperienceCard/ExperienceCard";
 export {default as AchievementCard} from "./AchievementCard/AchievementCard";
+export {default as PublicationCard} from "./PublicationCard/PublicationCard";
+export {default as CertificationCard} from "./CertificationCard/CertificationCard";

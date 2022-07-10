@@ -1,3 +1,9 @@
+//Home Assests
+export { default as PDEU } from "./organizations/webp/PDEU.webp"
+export { default as FallbackPDEU } from "./organizations/jpg/PDEU.jpg"
+export { default as DARTMOUTH } from "./organizations/webp/DARTMOUTH.webp"
+export { default as FallbackDARTMOUTH } from "./organizations/jpg/DARTMOUTH.jpg"
+
 // Organization Assets
 export { default as BISAG } from "./organizations/webp/BISAG.webp"
 export { default as FallbackBISAG } from "./organizations/jpg/BISAG.jpg"

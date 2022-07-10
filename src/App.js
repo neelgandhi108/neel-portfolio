@@ -7,8 +7,8 @@ const Projects = lazy(() => import("./pages/Projects/Projects"));
 const Experience = lazy(() => import("./pages/Experience/Experience"));
 const Involvements = lazy(() => import("./pages/Involvements/Involvements"));
 const Achievements = lazy(() => import("./pages/Achievements/Achievements"));
-// const Publications = lazy(() => import("./pages/Publications/Publications"));
-// const Certifications = lazy(() => import("./pages/Certifications/Certifications"));
+const Publications = lazy(() => import("./pages/Publications/Publications"));
+const Certifications = lazy(() => import("./pages/Certifications/Certifications"));
 const NotFound = lazy(() => import("./pages/NotFound/NotFound"));
 
 const Loading = () => {
@@ -34,10 +34,10 @@ const App = () => {
         return <Involvements />;
       case "achievements":
         return <Achievements />;
-      // case "publications":
-      //   return <Publications />;
-      // case "certifications":
-      //   return <Certifications />;
+      case "publications":
+        return <Publications />;
+      case "certifications":
+        return <Certifications />;
       default:
         return <NotFound />
     }

@@ -29,9 +29,9 @@ const ProjectCard = (props) => {
             {assets[props.title]}
             <Card.Body>
                 <Card.Title>{props.title}</Card.Title>
-                <Card.Text>
+                {/* <Card.Text>
                     {props.techStack.map((tech, index) => icons[tech])}
-                </Card.Text>
+                </Card.Text> */}
                 <Card.Text>
                     {props.content}
                 </Card.Text>

@@ -8,6 +8,8 @@ const Header = (props) => {
         "Experience": styles.experience,
         "Involvements": styles.involvements,
         "Achievements": styles.achievements,
+        "Publications": styles.publications,
+        "Certifications": styles.certifications
     }
     return (
         <Container fluid className={`${styles.container} ${backgroundStyle[props.title]}`}>
