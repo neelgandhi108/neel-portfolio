@@ -1,0 +1,61 @@
+[
+    {
+        "title": "RESEARCH INTERN",
+        "organization": "IIT Gandhinagar",
+        "liveUrl": "https://drive.google.com/file/d/16NZNxKu5PWHdA9JS3yFDPCnfuBrTHREm/view",
+        "duration": "8 Weeks - 2021",
+        "description": [
+            "Developed Deep Neural Network (DNN) based framework for inverse design of high‑power RF LDMOS Transistors to supersede time consuming traditional simulators"
+        ],
+        "logo": "IITGandhinagar"
+    },
+    {
+        "title": "RESEARCH INTERN",
+        "organization": "IIIT NAYA RAIPUR ",
+        "liveUrl": "https://drive.google.com/file/d/109SSjxn48S2eXBmIWsx8aIJdoVFpW-U3/view?usp=sharing",
+        "duration": "6 Weeks - 2021",
+        "description": [
+            " Eliminated Outages and Improved Resource allocation strategies in Heterogeneous Wireless Networks using Deep Reinforcement Learning."
+        ],
+        "logo": "IIITNR"
+    },
+    {
+        "title": "RESEARCH INTERN",
+        "organization": "Bhaskaracharya Institute for Space Applications and Geoinformatics(BISAG)",
+        "liveUrl": "https://drive.google.com/file/u/1/d/1dOyCUj38_a_ML4TTzQQD6A8rlRd8B3Ar/view?usp=sharing",
+        "duration": "7 Weeks - 2020",
+        "description": [
+            "Developed Web Application for sentiment analysis of covid vaccination tweets alongside exploratory data analytics for general welfare."
+        ],
+        "logo": "BISAG"
+    },
+	{
+        "title": "RESEARCH INTERN",
+        "organization": "ICMR – Centre for Innovation and Bio‑Design(CiBiod) ",
+        "liveUrl": "https://drive.google.com/file/d/1zM7cMnJX1QkkyPRhT329AmgmZej16dSi/view",
+        "duration": "7 Weeks - 2020",
+        "description": [
+            "Developed Web Application for detection of malady using patient’s symptoms with the advent of machine learning for prediction of disease and propound medication for treatment."
+        ],
+        "logo": "CIBIOD"
+    },
+	{
+        "title": "DATA SCIENCE AND BUSINESS ANALYST INTERN",
+        "organization": "The Sparks Foundation",
+        "liveUrl": "https://drive.google.com/file/d/16xFrd3YjPhx84pWw9AzEb92MecZReixH/view",
+        "duration": "7 Weeks - 2020",
+        "description": [
+            "Completion of numerous tasks related to data analysis, data cleaning, data interpretation, and representation besides applying suitable machine learning algorithms to supplant industrial demands"
+        ],
+        "logo": "SPARK"
+    },
+    {
+        "title": "SOFTWARE ENGINEER",
+        "organization": "Shreeji Inc",
+        "liveUrl": "",
+		"description": [
+            "Successful Completion of IT Projects related to Employee Monitoring System, Employee Performance Evaluation System, and Customer Service Enhancement System alongside maintaining IT infrastructure."
+        ],
+        "logo": "SHREEJI"
+    }
+]

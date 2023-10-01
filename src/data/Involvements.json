@@ -1,0 +1,22 @@
+[
+    {
+        "title": "AI/ML Lead",
+        "organization": "Google Developer Student Clubs",
+        "liveUrl": "",
+        "duration": "August 2020- June 2021",
+        "description": [
+            "Leading a Core Team of 6 team members as AI/ML Lead and conducting international events in field of ai through Google DSC."
+        ],
+        "logo": "Google Developer Student Clubs"
+    },
+    {
+        "title": "Technical Member",
+        "organization": "Cretus",
+        "liveUrl": "",
+        "duration": "August 2019- June 2020",
+        "description": [
+            "Involved in teaching and mentoring student from bachelor’s, master’s and other related programs to program on microcontrollers and microprocessors for developing cutting-edge iot products."
+        ],
+        "logo": "Cretus"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Uncovering Bias in Language Models: An Investigation into Stereotypical Text Generation",
+        "content": "Investigated the mechanisms and logic underlying stereotypical text generation in language models by utilizing the Stereoset dataset. Assessed biases in gender, profession, race, and religion through the application of multi-teacher knowledge distillation techniques. Showcased the efficacy of Model Editor Networks with Gradient Decomposition (MEND) and multi-teacher knowledge distillation architecture in mitigating stereotype biases in T5, GPT, BERT, and BART models. This contributed to more accurate and efficient natural language processing on a larger scale.",
+        "gitHubUrl": "",
+        "liveUrl": "",
+        "techStack": ["NLP", "Machine Learning"]
+    },
+    {
+        "title": "Low-light Image Enhancement",
+        "content": "Implemented the MIRNet-v2 model for low-light image enhancement tasks, utilizing a fully-convolutional architecture to learn enriched features for image restoration, achieving improved PSNR and SSIM metrics. Employed TensorFlow's tf.data API for efficient input pipeline construction and tf.distribute.Strategy API for distributed training on multiple GPUs, demonstrating the model's effectiveness on the LoL dataset.",
+        "gitHubUrl": "https://github.com/neelgandhi108/low-light-image-enhancement",
+        "liveUrl": "",
+        "techStack": ["TensorFlow", "Computer Vision"]
+    },
+    {
+        "title": "FinanceFormer: Transformer-based Model for Investment Portfolio Optimization",
+        "content": "Developed FinanceFormer architecture for accurate return ranking prediction without position embedding and optimized for large investment portfolios with multiple features. Utilized PyTorch and Transformer architecture to build a predictive model for investment portfolio optimization with 300 stocks, achieving a high Pearson correlation coefficient of 0.85, indicating accurate predictions of relative return sizes for all investment targets.",
+        "gitHubUrl": "https://github.com/neelgandhi108/FinanceFormer",
+        "liveUrl": "",
+        "techStack": ["PyTorch", "Transformer"]
+    },
+    {
+        "title": "Next-Generation Sequencing and Genomic Data Classification",
+        "content": "Developed a stacked ensemble model using ClinVar data, which outperformed present state of art machine learning models by 3-5 % for genetic variant classification. Conducted a comprehensive analysis using LIME, SHAP, permutation feature importance, and PDP, identifying the most influential features for efficient classification, contributing to the understanding of salient features within ClinVar.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Genetic-Variant-Classifications",
+        "liveUrl": "",
+        "techStack": ["Machine Learning", "Bioinformatics"]
+    },
+    {
+        "title": "Optimization of Marketing Campaigns through Predictive Modeling and Advanced Statistical Analysis",
+        "content": "Led a data analysis project to develop a predictive model that leveraged customer behavior data from five previous campaigns. This optimized marketing campaign efficiency, resulting in an over 60% increase in acceptance rates in targeted regions like Mexico. Utilized advanced statistical methods, including Mann-Whitney and Spearman correlation tests, to derive key insights. Established a significant correlation between customer income and spending (correlation coefficient: 0.8466, p-value: 0.0000) and the independence of customer education and marital status, providing a foundation for effective campaign segmentation.",
+        "gitHubUrl": "https://github.com/Your_Github_Link",
+        "liveUrl": "",
+        "techStack": ["Data Analysis", "Statistics"]
+    },
+    {
+        "title": "Medical Image Segmentation",
+        "content": "Developed a medical image segmentation system using deep learning algorithms like UNet, CNN, and customized Unetv2 to segment skin lesions and classify them into seven different categories with high accuracy (95-96%) and F1-score. Experimented with different datasets (PH2 Database, HAM10000) and achieved optimal results by fine-tuning the models and optimizing the parameters.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Skin_Lesion_Segmentation_and_Classification",
+        "liveUrl": "",
+        "techStack": ["Deep Learning", "Computer Vision"]
+    },
+    {
+        "title": "Financial Stock Recommendation System",
+        "content": "Developed a web application using S&P500 index data for stock recommendation surpassing 60% of existing recommendation systems and gained an in-depth understanding of financial concepts. Utilized Streamlit, FastAPI, Yfinance, yahoo-finance, PyPortfolioOpt, and Sqlalchemy as libraries and frameworks.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Financial-Stock-Recommendation-System",
+        "liveUrl": "",
+        "techStack": ["Streamlit", "FastAPI", "Python"]
+    },
+    {
+        "title": "Multi-Robot Coordination for Heterogeneous Task Allocation: A Market Based Distributed Mechanism",
+        "content": "Developed a market-based distributed mechanism, Multi-Robot Coordination for Heterogeneous Task Allocation (MRCHTA), that achieved near-optimal system utility with 98% success rate, while reducing computation times by up to 90% compared to existing mechanisms. Demonstrated through empirical studies that MRCHTA is highly scalable, handling up to 1000 robots and 1000 tasks, efficient, reaching a Nash equilibrium in less than 10 rounds, possesses anytime and monotonically, making it a promising solution for large-scale task allocation problems in multi-robot systems.",
+        "gitHubUrl": "https://github.com/neelgandhi108/Multi-Robot-Coordination-for-Heterogeneous-Task-Allocation-A-Market-Based-Distributed-Mechanism",
+        "liveUrl": "",
+        "techStack": ["Robotics", "Distributed Systems"]
+    },
+    {
+        "title": "TinyML-Speech Recognition",
+        "content": "Developed advanced embedded systems & techniques for acoustic vocal sound wave detection (99.5% accuracy) using the Speech Commands Dataset. Implemented Keyword Spotting app using the tinyConv model, TensorFlow, TFLite, designed & trained the model, optimized using TFLite, converted to hexdump for deployment using edge AI.",
+        "gitHubUrl": "",
+        "liveUrl": "https://drive.google.com/file/d/1nISPTo7Xmn58E3-5_o4A1eUO-LRuZkJN/view",
+        "techStack": ["TinyML", "Edge AI"]
+    },
+    {
+        "title": "Covid record management system for public places",
+        "content": "Developed and implemented a Covid record management system for public places using SQL, ML, IoT for real-time monitoring, data analysis, and outbreak prediction.",
+        "gitHubUrl": "",
+        "liveUrl": "https://drive.google.com/file/d/1YaM1iXBlUPfmAZ4nZvhKt6jxcM3VDF37/view",
+        "techStack": ["IoT", "SQL", "Machine Learning"]
+    },
+    {
+        "title": "Image Processing in Verilog with PIL Library",
+        "content": "Developed a Verilog module for efficient image processing by converting images into hex files using the Python PIL library. Processed over 1,000 images, resulting in a significant reduction in image processing time to 0.5 seconds per image, enhancing real-time image processing capabilities.",
+        "gitHubUrl": "",
+        "liveUrl": "",
+        "techStack": ["Verilog", "Python", "PIL"]
+    },
+    {
+        "title": "Battery Remaining Useful Life Prediction on 14 NMC-LCO 18650 Batteries",
+        "content": "Analyzed a dataset of 14 NMC-LCO 18650 batteries with a capacity of 2.8 Ah cycled over 1000 times, creating features to predict battery remaining useful life (RUL). Developed machine learning models for RUL prediction, achieving high accuracy with Extra Trees Regressor (MAE = 14.3974, RMSE = 30.8631, R2 = 0.9906) and Random Forest Regressor (MAE = 16.0495, RMSE = 32.6200, R2 = 0.9896).",
+        "gitHubUrl": "",
+        "liveUrl": "",
+        "techStack": ["Machine Learning", "Python"]
+    },
+    {
+        "title": "Dartmouth College Expense Manager App",
+        "content": "Developed a mobile app using React Native and Expo to help Dartmouth College students track and manage their spending when eating out at restaurants near the college. Utilized Node.js for backend functionalities and integrated data analysis features to analyze students' spending habits and provide personalized budgeting recommendations.",
+        "gitHubUrl": "",
+        "liveUrl": "",
+        "techStack": ["React Native", "Node.js", "Data Analysis"]
+    }
+]
